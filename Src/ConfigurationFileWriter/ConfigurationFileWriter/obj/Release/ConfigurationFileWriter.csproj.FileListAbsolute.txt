@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\bin\Release\ConfigurationFileWriter.exe.config
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\bin\Release\ConfigurationFileWriter.exe
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\bin\Release\ConfigurationFileWriter.pdb
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\obj\Release\ConfigurationFileWriter.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\obj\Release\ConfigurationFileWriter.Form1.resources
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\obj\Release\ConfigurationFileWriter.Properties.Resources.resources
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\obj\Release\ConfigurationFileWriter.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\obj\Release\ConfigurationFileWriter.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\obj\Release\ConfigurationFileWriter.exe
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileWriter\ConfigurationFileWriter\obj\Release\ConfigurationFileWriter.pdb

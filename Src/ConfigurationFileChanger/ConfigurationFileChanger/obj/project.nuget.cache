@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VEJk4wfNkMrOzyDA4q4tPVyqD/nzzTuxxfArS0IX77Ast2h4trica8UygzJz4yLLqkaMdfWxbp2oq6NzTYWubQ==",
+  "dgSpecHash": "oWEUFLIQnB1hi5wsx9zhdfOGgBgTVKPjndpGw/xHyklqtegwKI2kR1cyCgyj/kpVZR0pBV7xrPi7iJaQQg+ZeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mic\\Documents\\GitHub\\FilesWriter-FilesRewriter\\Src\\ConfigurationFileChanger\\ConfigurationFileChanger\\ConfigurationFileChanger.csproj",
+  "projectFilePath": "C:\\Users\\micha\\Documents\\github\\ConfigurationFileRewriter\\Src\\ConfigurationFileChanger\\ConfigurationFileChanger\\ConfigurationFileChanger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\bin\Release\ConfigurationFileRewriter.exe.config
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\bin\Release\ConfigurationFileRewriter.exe
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\bin\Release\ConfigurationFileRewriter.pdb
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\obj\Release\ConfigurationFileRewriter.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\obj\Release\ConfigurationFileRewriter.Form1.resources
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\obj\Release\ConfigurationFileRewriter.Properties.Resources.resources
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\obj\Release\ConfigurationFileRewriter.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\obj\Release\ConfigurationFileRewriter.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\obj\Release\ConfigurationFileRewriter.exe
+C:\Users\micha\Documents\github\ConfigurationFileRewriter\Src\ConfigurationFileRewriter\ConfigurationFileRewriter\obj\Release\ConfigurationFileRewriter.pdb
